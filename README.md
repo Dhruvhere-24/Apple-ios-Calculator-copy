@@ -24,7 +24,7 @@ This is a Python Flask-based web application that replicates the UI and basic fu
 - **Templating Engine:** Jinja2
 
 ---
-
+```bash
 ## 📁 Folder Structure
 ├── app.py # Main Flask app
 ├── templates/
@@ -34,7 +34,7 @@ This is a Python Flask-based web application that replicates the UI and basic fu
 │ └── style.css # Calculator styling
 ├── .gitignore
 └── README.md
-
+```
 
 
 ---
