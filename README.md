@@ -5,9 +5,9 @@ This project was created as part of the **CodSoft Internship Program**.
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo Image
 
-> _Optional: Add a link to live preview if deployed (e.g., on Render, Vercel, etc.)_
+![Image](https://github.com/user-attachments/assets/713a60e0-e44c-4309-a358-18cf2c1ef506)
 
 ---
 
