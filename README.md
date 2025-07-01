@@ -60,13 +60,23 @@ On macOS/Linux:
 source venv/bin/activate
 
 4. Install Dependencies
+ ```bash
 pip install flask
-
-5. Run the Application
+```
+6. Run the Application
+```bash
 python app.py
+```
+Then visit
+```bash
+📍 http://127.0.0.1:5000/ in your browser.
+```
+🧑‍💻 Author
 
-Then visit 📍 http://127.0.0.1:5000/ in your browser.
+- Dhruv Singh
+- GitHub: @Dhruvhere-24
 
-🙌 Credits
-Developed by @Dhruvhere-24
-Special thanks to CodSoft for the project inspiration
+-------------------------------------------------------
+📢 Acknowledgement
+
+This project was completed as part of the CodSoft Internship program.
